@@ -1,4 +1,4 @@
-# Chat
+# animation
 
 [Ссылка на pages](https://parilov-alexx.github.io/hw-animation/)
 
